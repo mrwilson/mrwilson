@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mrwilson/mrwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 I'm a software developer and current civil servant, working on [GOV.UK Verify](https://www.verify.service.gov.uk/)
 
-Here are some ideas to get you started:
+🛠 I'm usually found writing Java, Python, Shell, and the occasional Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗳 I'm interested in civic tech, particularly when it's related to elections and voting
+
+😍 I like continuous delivery, extreme programming (XP), pair/mob-programming, and building high-performing teams
+
+👤 Pronouns: he/him
+
+🤳🏻 Socials:
+ - Twitter: https://twitter.com/pr0bablyfine
+ - Blog: https://blog.probablyfine.co.uk
